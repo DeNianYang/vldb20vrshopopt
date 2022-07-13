@@ -7,7 +7,7 @@ Full package of the paper "Optimizing Item and Subgroup Configurations for Socia
 - Datasets and Algorithm codes are in the folder
 - A VR implementation package (used in the user study) is available at: https://drive.google.com/open?id=1-kMuF9BcCCXuhHwgUsJehbmmdUnnXukJ
 
-Citation
+Citation:
 If you find this work or code is helpful in your research, please cite our work:
 ```
 @article{10.14778/3389133.3389143,
